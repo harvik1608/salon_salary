@@ -1,0 +1,210 @@
+DEBUG - 2025-08-12 04:20:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 04:20:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 04:20:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 04:21:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 04:21:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 04:21:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 04:21:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 07:46:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 07:46:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:22:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:23:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:23:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:23:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:23:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:23:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:23:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:23:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:23:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:23:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:23:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:24:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:24:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:24:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:24:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:25:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:25:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:26:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:27:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:29:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:32:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:33:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:35:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:36:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:38:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:39:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:40:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:42:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-08-12 08:42:59 --> mysqli_sql_exception: Unknown column 'salon_id' in 'WHERE' in /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Database/MySQLi/Connection.php:312
+Stack trace:
+#0 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Database/MySQLi/Connection.php(312): mysqli->query()
+#1 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Model.php(928): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/app/Controllers/Dashboard.php(91): CodeIgniter\Model->__call()
+#6 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/CodeIgniter.php(933): App\Controllers\Dashboard->load_expense_chart()
+#7 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#8 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#11 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/index.php(56): CodeIgniter\Boot::bootWeb()
+#12 {main}
+CRITICAL - 2025-08-12 08:42:59 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'salon_id' in 'WHERE'
+[Method: GET, Route: load-expense-chart]
+in SYSTEMPATH/Database/BaseConnection.php on line 688.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(928): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Dashboard.php(91): CodeIgniter\Model->__call()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->load_expense_chart()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-08-12 08:42:59 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'salon_id' in 'WHERE'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 317.
+ 1 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(928): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH/Controllers/Dashboard.php(91): CodeIgniter\Model->__call()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->load_expense_chart()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-08-12 08:42:59 --> [Caused by] mysqli_sql_exception: Unknown column 'salon_id' in 'WHERE'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 312.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(312): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(928): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH/Controllers/Dashboard.php(91): CodeIgniter\Model->__call()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->load_expense_chart()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+DEBUG - 2025-08-12 08:43:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-08-12 08:43:20 --> mysqli_sql_exception: Unknown column 'salon_id' in 'WHERE' in /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Database/MySQLi/Connection.php:312
+Stack trace:
+#0 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Database/MySQLi/Connection.php(312): mysqli->query()
+#1 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Model.php(928): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/app/Controllers/Dashboard.php(91): CodeIgniter\Model->__call()
+#6 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/CodeIgniter.php(933): App\Controllers\Dashboard->load_expense_chart()
+#7 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#8 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#11 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/index.php(56): CodeIgniter\Boot::bootWeb()
+#12 {main}
+CRITICAL - 2025-08-12 08:43:20 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'salon_id' in 'WHERE'
+[Method: GET, Route: load-expense-chart]
+in SYSTEMPATH/Database/BaseConnection.php on line 688.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(928): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Dashboard.php(91): CodeIgniter\Model->__call()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->load_expense_chart()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-08-12 08:43:20 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'salon_id' in 'WHERE'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 317.
+ 1 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(928): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH/Controllers/Dashboard.php(91): CodeIgniter\Model->__call()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->load_expense_chart()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-08-12 08:43:20 --> [Caused by] mysqli_sql_exception: Unknown column 'salon_id' in 'WHERE'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 312.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(312): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(928): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH/Controllers/Dashboard.php(91): CodeIgniter\Model->__call()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->load_expense_chart()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+DEBUG - 2025-08-12 08:44:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-08-12 08:44:14 --> mysqli_sql_exception: Unknown column 'salon_id' in 'WHERE' in /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Database/MySQLi/Connection.php:312
+Stack trace:
+#0 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Database/MySQLi/Connection.php(312): mysqli->query()
+#1 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Model.php(928): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/app/Controllers/Dashboard.php(90): CodeIgniter\Model->__call()
+#6 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/CodeIgniter.php(933): App\Controllers\Dashboard->load_expense_chart()
+#7 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#8 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#11 /home/u810214334/domains/embellishlondon.com/public_html/daily_entry/index.php(56): CodeIgniter\Boot::bootWeb()
+#12 {main}
+CRITICAL - 2025-08-12 08:44:14 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'salon_id' in 'WHERE'
+[Method: GET, Route: load-expense-chart]
+in SYSTEMPATH/Database/BaseConnection.php on line 688.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(928): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Dashboard.php(90): CodeIgniter\Model->__call()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->load_expense_chart()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-08-12 08:44:14 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'salon_id' in 'WHERE'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 317.
+ 1 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(928): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH/Controllers/Dashboard.php(90): CodeIgniter\Model->__call()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->load_expense_chart()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-08-12 08:44:14 --> [Caused by] mysqli_sql_exception: Unknown column 'salon_id' in 'WHERE'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 312.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(312): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(928): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH/Controllers/Dashboard.php(90): CodeIgniter\Model->__call()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->load_expense_chart()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+DEBUG - 2025-08-12 08:51:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:53:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:54:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:58:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 08:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

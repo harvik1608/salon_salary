@@ -1,0 +1,930 @@
+DEBUG - 2025-01-20 01:11:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 01:52:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:04:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:05:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:05:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:05:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:05:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:05:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:07:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:09:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:09:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:09:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:09:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:09:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:09:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:10:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:10:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:11:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:11:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:11:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:13:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:34:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:45:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:45:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:45:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:45:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:46:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:46:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:46:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:46:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:46:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:46:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:47:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:47:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:47:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:52:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:53:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:53:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:53:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:53:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:53:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:53:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:53:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:53:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:53:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:53:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:53:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:53:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:54:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:54:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:54:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:54:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:55:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:55:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:55:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:55:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:55:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:55:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:56:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:56:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:58:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:58:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:58:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:58:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 04:58:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 05:04:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-01-20 05:09:18 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(64): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:09:19 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(64): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:09:20 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(64): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:09:20 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(64): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:09:20 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(64): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:09:20 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(64): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:09:21 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(64): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:09:51 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(64): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:12:03 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:12:04 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:12:04 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:12:04 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:12:05 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:12:05 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:12:05 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:12:05 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:12:05 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:12:06 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:12:06 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:12:27 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:12:28 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:12:28 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:12:29 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:12:29 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:12:29 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:12:29 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:12:29 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:12:31 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:12:31 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:13:04 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+DEBUG - 2025-01-20 05:13:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-01-20 05:13:08 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:13:25 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:13:27 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:13:27 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:13:28 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:13:28 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:13:28 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:13:28 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 05:13:42 --> CodeIgniter\Database\Exceptions\DataException: You must provide a valid "column name not separated by comma".
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseBuilder.php on line 526.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(526): CodeIgniter\Database\Exceptions\DataException::forInvalidArgument()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(483): CodeIgniter\Database\BaseBuilder->maxMinAvgSum()
+ 3 APPPATH/Views/salon/summary_view.php(60): CodeIgniter\Database\BaseBuilder->selectSum()
+ 4 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Salons.php(338): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+DEBUG - 2025-01-20 05:15:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 05:16:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 05:16:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 05:18:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 05:18:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 05:18:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 05:53:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 05:53:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 05:53:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 06:40:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 13:21:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 16:45:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 16:45:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 16:45:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 16:45:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 16:45:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 16:45:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 16:45:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 16:47:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 16:47:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 16:47:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 16:47:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-01-20 16:48:11 --> ErrorException: Undefined variable $grand_total
+[Method: GET, Route: summary-view]
+in APPPATH/Views/salon/summary_view.php on line 77.
+ 1 APPPATH/Views/salon/summary_view.php(77): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(234): include('/home/u528034067/domains/submitpoll.com/public_html/app/Views/salon/summary_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Salons.php(338): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+DEBUG - 2025-01-20 16:53:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 16:54:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 17:07:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-01-20 17:07:01 --> mysqli_sql_exception: Unknown column 'sc.id' in 'SELECT' in /home/u528034067/domains/submitpoll.com/public_html/system/Database/MySQLi/Connection.php:312
+Stack trace:
+#0 /home/u528034067/domains/submitpoll.com/public_html/system/Database/MySQLi/Connection.php(312): mysqli->query()
+#1 /home/u528034067/domains/submitpoll.com/public_html/system/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u528034067/domains/submitpoll.com/public_html/system/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u528034067/domains/submitpoll.com/public_html/system/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u528034067/domains/submitpoll.com/public_html/system/Model.php(928): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u528034067/domains/submitpoll.com/public_html/app/Controllers/Salons.php(330): CodeIgniter\Model->__call()
+#6 /home/u528034067/domains/submitpoll.com/public_html/system/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+#7 /home/u528034067/domains/submitpoll.com/public_html/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#8 /home/u528034067/domains/submitpoll.com/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/u528034067/domains/submitpoll.com/public_html/system/Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 /home/u528034067/domains/submitpoll.com/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#11 /home/u528034067/domains/submitpoll.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#12 {main}
+CRITICAL - 2025-01-20 17:07:01 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'sc.id' in 'SELECT'
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseConnection.php on line 688.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(928): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Salons.php(330): CodeIgniter\Model->__call()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 17:07:01 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'sc.id' in 'SELECT'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 317.
+ 1 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(928): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH/Controllers/Salons.php(330): CodeIgniter\Model->__call()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 17:07:01 --> [Caused by] mysqli_sql_exception: Unknown column 'sc.id' in 'SELECT'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 312.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(312): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(928): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH/Controllers/Salons.php(330): CodeIgniter\Model->__call()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+DEBUG - 2025-01-20 17:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-01-20 17:07:12 --> mysqli_sql_exception: Unknown column 'sc.id' in 'SELECT' in /home/u528034067/domains/submitpoll.com/public_html/system/Database/MySQLi/Connection.php:312
+Stack trace:
+#0 /home/u528034067/domains/submitpoll.com/public_html/system/Database/MySQLi/Connection.php(312): mysqli->query()
+#1 /home/u528034067/domains/submitpoll.com/public_html/system/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u528034067/domains/submitpoll.com/public_html/system/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u528034067/domains/submitpoll.com/public_html/system/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u528034067/domains/submitpoll.com/public_html/system/Model.php(928): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u528034067/domains/submitpoll.com/public_html/app/Controllers/Salons.php(330): CodeIgniter\Model->__call()
+#6 /home/u528034067/domains/submitpoll.com/public_html/system/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+#7 /home/u528034067/domains/submitpoll.com/public_html/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#8 /home/u528034067/domains/submitpoll.com/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/u528034067/domains/submitpoll.com/public_html/system/Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 /home/u528034067/domains/submitpoll.com/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#11 /home/u528034067/domains/submitpoll.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#12 {main}
+CRITICAL - 2025-01-20 17:07:12 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'sc.id' in 'SELECT'
+[Method: GET, Route: summary-view]
+in SYSTEMPATH/Database/BaseConnection.php on line 688.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(928): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Salons.php(330): CodeIgniter\Model->__call()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 17:07:12 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'sc.id' in 'SELECT'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 317.
+ 1 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(928): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH/Controllers/Salons.php(330): CodeIgniter\Model->__call()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 17:07:12 --> [Caused by] mysqli_sql_exception: Unknown column 'sc.id' in 'SELECT'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 312.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(312): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(928): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH/Controllers/Salons.php(330): CodeIgniter\Model->__call()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+DEBUG - 2025-01-20 17:09:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 17:10:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 17:10:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-01-20 17:22:49 --> ErrorException: Undefined variable $db
+[Method: GET, Route: summary-view]
+in APPPATH/Controllers/Salons.php on line 334.
+ 1 APPPATH/Controllers/Salons.php(334): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+DEBUG - 2025-01-20 17:22:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-01-20 17:22:51 --> ErrorException: Undefined variable $db
+[Method: GET, Route: summary-view]
+in APPPATH/Controllers/Salons.php on line 334.
+ 1 APPPATH/Controllers/Salons.php(334): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-01-20 17:23:02 --> ErrorException: Undefined variable $db
+[Method: GET, Route: summary-view]
+in APPPATH/Controllers/Salons.php on line 334.
+ 1 APPPATH/Controllers/Salons.php(334): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+DEBUG - 2025-01-20 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 17:24:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 17:24:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 17:24:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 17:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 17:24:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 17:27:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 17:27:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-01-20 17:29:25 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: summary-view]
+in APPPATH/Views/salon/summary_view.php on line 215.
+ 1 SYSTEMPATH/View/View.php(234): include()
+ 2 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Salons.php(349): view()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+DEBUG - 2025-01-20 17:29:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-01-20 17:29:31 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: summary-view]
+in APPPATH/Views/salon/summary_view.php on line 215.
+ 1 SYSTEMPATH/View/View.php(234): include()
+ 2 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Salons.php(349): view()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+DEBUG - 2025-01-20 17:29:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-01-20 17:29:43 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: summary-view]
+in APPPATH/Views/salon/summary_view.php on line 215.
+ 1 SYSTEMPATH/View/View.php(234): include()
+ 2 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Salons.php(349): view()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Salons->summary_view()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+DEBUG - 2025-01-20 17:30:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 17:44:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 17:45:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 17:45:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-20 18:22:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
